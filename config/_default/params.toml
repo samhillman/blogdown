@@ -63,15 +63,16 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "github", icon_pack = "fab", name = "Check Me out on Github", link = "https://github.com/samghillman"},
-  {icon = "twitter", icon_pack = "fab", name = "Find Me on Twitter", link = "https://twitter.com/samghillman"},
-  {icon = "envelope-open-text", icon_pack = "fab", name = "Email Me", link = "mailto: sam@samhillman.com"},
+  {icon = "envelope", icon_pack = "fas", name = "Email me", link = "mailto: sam@samhillman.com"},
+  {icon = "twitter", icon_pack = "fab", name = "Find me on Twitter", link = "https://twitter.com/samghillman"},
+  {icon = "google-scholar", icon_pack = "ai", name = "Find me on Twitter", link = "https://twitter.com/samghillman"},
+  {icon = "github", icon_pack = "fab", name = "Check me out on Github", link = "https://github.com/samghillman"},
   {icon = "linkedin", icon_pack = "fab", name = "View my LinkedIn profile", link = "https://www.linkedin.com/in/samghillman/"},
   {icon = "stack-overflow", icon_pack = "fab", name = "See my StackOverflow account", link = "https://stackoverflow.com/3739146/sam-hillman"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  #{icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
 # Display a map.
