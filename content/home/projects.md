@@ -28,6 +28,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Disease Ecology"
     tag = "Disease Ecology"
+    
+  [[content.filter_button]]
+    name = "R / Statistics"
+    tag = "R"    
   
   [[content.filter_button]]
     name = "Other Research"
