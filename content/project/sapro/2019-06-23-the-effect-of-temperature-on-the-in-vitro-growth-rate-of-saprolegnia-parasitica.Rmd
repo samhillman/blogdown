@@ -1,0 +1,21 @@
+---
+title: ' The effect of temperature on the in-vitro growth rate of Saprolegnia parasitica'
+author: Sam Hillman
+date: '2019-06-23'
+slug: the-effect-of-temperature-on-the-in-vitro-growth-rate-of-saprolegnia-parasitica
+categories:
+  - Parasites
+tags:
+  - Parasites
+  - Other Research
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2019-06-23T02:40:51+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---

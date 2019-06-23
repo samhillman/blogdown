@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disease Ecology on Sam Hillman | Ecology and Stats</title>
+    <link>/categories/disease-ecology/</link>
+    <description>Recent content in Disease Ecology on Sam Hillman | Ecology and Stats</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/categories/disease-ecology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Current field work!</title>
+      <link>/project/current-field-work/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/current-field-work/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Endemic and epidemic parasite coinfection</title>
+      <link>/project/endemic-and-epidemic-parasite-coinfection/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/endemic-and-epidemic-parasite-coinfection/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

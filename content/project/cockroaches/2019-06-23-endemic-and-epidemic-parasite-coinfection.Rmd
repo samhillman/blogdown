@@ -1,0 +1,22 @@
+---
+title: Endemic and epidemic parasite coinfection
+author: Sam Hillman
+date: '2019-06-23'
+slug: endemic-and-epidemic-parasite-coinfection
+categories:
+  - Parasites
+  - Disease Ecology
+tags:
+  - Disease Ecology
+  - Parasites
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2019-06-23T02:38:55+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---

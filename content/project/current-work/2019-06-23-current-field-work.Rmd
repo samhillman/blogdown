@@ -1,0 +1,23 @@
+---
+title: Current field work!
+author: Sam Hillman
+date: '2019-06-23'
+slug: current-field-work
+categories:
+  - Disease Ecology
+  - Parasites
+tags:
+  - Disease Ecology
+  - Parasites
+  - Other Research
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2019-06-23T02:43:16+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
