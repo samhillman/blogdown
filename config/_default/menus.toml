@@ -27,20 +27,9 @@
 
 [[main]]
   name = "Projects"
-  identifier = "projects"
-  weight = 30
+url = "#projects"  
+weight = 30
   
-    [[main]]
-    name = "Recent Projects"
-    parent = "projects"
-    url = "#projects"
-    weight = 30
-    
-    [[main]]
-    name = "All Projects"
-    parent = "projects"
-    url = "projects/"
-    weight = 30
 
 [[main]]
   name = "Publications"
