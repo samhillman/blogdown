@@ -228,7 +228,24 @@
   </url>
   
   <url>
+    <loc>/cv/sam_hillman_cv/sam_hillman_cv/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/sam_hillman_cv/sam_hillman_cv/</loc>
+  </url>
+  
+  <url>
     <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/cv/cv/</loc>
   </url>
   
 </urlset>
