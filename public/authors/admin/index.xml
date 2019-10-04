@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sam Hillman | Ecology and Stats</title>
+    <title>Sam Hillman | Disease Ecology</title>
     <link>/authors/admin/</link>
-    <description>Recent content on Sam Hillman | Ecology and Stats</description>
+    <description>Recent content on Sam Hillman | Disease Ecology</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
@@ -357,9 +357,9 @@ rm Untitled.md
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Hi - I&amp;rsquo;m Sam! I&amp;rsquo;m a PhD Researcher in the Pedersen Group at Edinburgh University working on the ecology of infection and immunity in a wild mouse system. My aim is to bridge the divide between laboratory models and real-world systems by testing how ecological heterogeneity drives infection burdens, immunity and treatment success in both a wild mouse-parasite model and the same species in their natural setting to understand the causes and consequences of ecological heterogeneity on infection, immunity and control.&lt;/p&gt;
+      <description>&lt;p&gt;Hi - I&amp;rsquo;m Sam! I&amp;rsquo;m a PhD student in the Pedersen Group at Edinburgh University working on the ecology of infection and immunity in a wild mouse system. My aim is to bridge the divide between laboratory models and real-world systems by testing how ecological heterogeneity drives infection burdens, immunity and treatment success in a wild mouse-parasite model in the lab and in their natural setting.&lt;/p&gt;
 
-&lt;p&gt;I have an undergraduate degree in Ecology from Cardiff University and I previously worked with Vanessa Ezenwa at the Ezenwa Lab at the University of Georgia on parasite co-infection and the effects of anthelmintic treatment on parasite community composition in a wild cotton rat system. As well as all things disease ecology, I&amp;rsquo;m interested in teaching and using R as well as how we can apply modern open-science practices in ecological research,&lt;/p&gt;
+&lt;p&gt;Find out more about me and my work &lt;a href=&#34;#about&#34;&gt;below&lt;/a&gt;, or have a look at some of &lt;a href=&#34;#projects&#34;&gt;my current research!&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
