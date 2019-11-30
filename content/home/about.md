@@ -17,30 +17,31 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "PhD student"
   company = "University of Edinburgh"
-  company_url = ""
+  company_url = "https://www.ed.ac.uk/biology/evolutionary-biology"
   location = "Edinburgh"
   date_start = "2019-09-01"
   date_end = ""
   description = """
-  Student in [the Pedersen Group](http://pedersen.bio.ed.ac.uk/) working on the ecology of infectious diseases in wild mice.
+  PhD student in the [Pedersen Group](http://pedersen.bio.ed.ac.uk/) studying the ecology of infectious diseases in wild mice. My current research is focused on how heterogeneity in resource availability affects space use, contact networks, and parasite transmission in wild mice, using a combination of field experiments and statistical and epidemiological methods.
   
-  Responsibilities include:
+  Current responsibilities include:
   
   * Extensive field trapping (non-lethal capture-mark-release) of wild mice
   * Biologging, network modelling and social network analysis of wild mice contacts
   * Statistical modelling of parasite transmission  
   
-  and lots more.  
+  and lots more!  
   
-  See [my current field work](/project/current-work/) for more information!
+  See [my current field work](/project/current-work/) for more information about my current experiments or [my CV](/files/sam-hillman-cv.pdf) for a more complete picture of my background!
   """
 [[experience]]
   title = "Research Assistant"
   company = "Cardiff University"
-  company_url = ""
+  company_url = "https://www.cardiff.ac.uk/biosciences"
   location = "Cardiff, UK"
   date_start = "2018-10-01"
   date_end = "2019-04-01"
@@ -49,16 +50,16 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Intern"
   company = "Odum School of Ecology, University of Georgia"
-  company_url = ""
-  location = "Cardiff, UK"
+  company_url = "https://www.ecology.uga.edu/"
+  location = "Athens, GA, USA"
   date_start = "2017-09-01"
   date_end = "2018-08-01"
-  description = """Research Intern with Professor Vanessa Ezenwa, working on  [“The effects of anthelmintic treatment on non-target parasites in wild rodents”](/project/cotton-rats/) and assisting on a project on the causal relationship between personality and parasitism in wild rodents. """
+  description = """Research Intern with [Professor Vanessa Ezenwa](http://ezenwalab.uga.edu/) researching  [the effects of anthelmintic treatment on non-target parasites in wild rodents](/project/cotton-rats/) and assisting on a project on the causal relationship between personality and parasitism in wild rodents. """
 
 [[experience]]
   title = "Research Assistant"
   company = "Cardiff University"
-  company_url = ""
+  company_url = "https://www.cardiff.ac.uk/biosciences"
   location = "Cardiff, UK"
   date_start = "2017-07-01"
   date_end = "2017-08-01"
@@ -67,7 +68,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Undergraduate student"
   company = "Cardiff University"
-  company_url = ""
+  company_url = "https://www.cardiff.ac.uk/biosciences"
   location = "Cardiff, UK"
   date_start = "2015-09-01"
   date_end = "2019-06-01"
