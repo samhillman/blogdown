@@ -25,11 +25,17 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """
+  Student in [the Pedersen Group](http://pedersen.bio.ed.ac.uk/) working on the ecology of infectious diseases in wild mice.
+  
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Extensive field trapping (non-lethal capture-mark-release) of wild mice
+  * Biologging, network modelling and social network analysis of wild mice contacts
+  * Statistical modelling of parasite transmission  
+  
+  and lots more.  
+  
+  See [my current field work](/project/current-work/) for more information!
   """
 [[experience]]
   title = "Research Assistant"
@@ -49,7 +55,6 @@ date_format = "Jan 2006"
   date_end = "2018-08-01"
   description = """Research Intern with Professor Vanessa Ezenwa, working on  [“The effects of anthelmintic treatment on non-target parasites in wild rodents”](/project/cotton-rats/) and assisting on a project on the causal relationship between personality and parasitism in wild rodents. """
 
-
 [[experience]]
   title = "Research Assistant"
   company = "Cardiff University"
@@ -58,6 +63,7 @@ date_format = "Jan 2006"
   date_start = "2017-07-01"
   date_end = "2017-08-01"
   description = """Awarded a Cardiff CUROP grant to work as a summer student research assistant, working on [“Investigating the effect of temperature on the in vitro growth rate of the oomycete Saprolegnia parasitica”](/project/sapro/). """
+  
 [[experience]]
   title = "Undergraduate student"
   company = "Cardiff University"
@@ -65,5 +71,5 @@ date_format = "Jan 2006"
   location = "Cardiff, UK"
   date_start = "2015-09-01"
   date_end = "2019-06-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """BSc. (Hons) Ecology with a Placement Year (First Class), specialising in Infection Biology and Epidemiology, Systems Biology and Modelling, Global Change Biology, Population Ecology, and Molecular Ecology."""
 +++

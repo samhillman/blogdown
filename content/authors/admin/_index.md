@@ -4,10 +4,10 @@ authors:
 bio: I'm a PhD student with research interests including the ecology of infectious disease, parasite co-infection, and statistics
 education:
   courses:
-  - course: PhD, Ecology and Evolutionary Biology
+  - course: PhD Ecology and Evolutionary Biology
     institution: Edinburgh University
     year: 2023
-  - course: BSc (hons), Ecology
+  - course: BSc (hons) Ecology
     institution: Cardiff University
     year: 2019
 email: "sam@samhillman.com"
