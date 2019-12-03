@@ -4,6 +4,7 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
+  preview_only: true
 links:
 - icon: twitter
   icon_pack: fab
@@ -21,3 +22,4 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
+
