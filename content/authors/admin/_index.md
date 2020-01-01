@@ -39,6 +39,8 @@ user_groups:
 - Visitors
 ---
 
-Hi - I'm Sam! I'm a PhD student in the Pedersen Group at Edinburgh University working on the ecology of infection and immunity in a wild mouse system. My aim is to bridge the divide between laboratory models and real-world systems by testing how ecological heterogeneity drives infection burdens, immunity and treatment success in a wild mouse-parasite model in the lab and in their natural setting.
+Hi - I'm Sam! I'm a PhD student in the [Pedersen Group](http://pedersen.bio.ed.ac.uk/) at Edinburgh University working on the ecology of infection and immunity in a wild mouse system. My aim is to bridge the divide between laboratory models and real-world systems by understanding the causes and consequences of ecological heterogeneity on parasite infection, host immunity, and disease control.
 
-Find out more about me and my work [below](#about), or have a look at some of [my current research!](#projects)
+That may sound like a mouthful but I'm an ecologist at heart, passionate about all things natural. As well as ecology I'm interested in teaching and using statistical modeling in R as well as trying to work out how we can apply modern open-science practices to ecological research.
+
+Find out more about me and my work [below](#about) or get in [touch](#contact)!
