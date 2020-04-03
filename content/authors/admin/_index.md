@@ -26,13 +26,13 @@ social:
   link: 'mailto: sam@samhillman.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/SamGHillman
+  link: https://twitter.com/SamHillman
 - icon: google-scholar
   icon_pack: ai
-  link: https://twitter.com/SamGHillman
+  link: https://twitter.com/SamHillman
 - icon: github
   icon_pack: fab
-  link: https://github.com/SamGHillman
+  link: https://github.com/SamHillman
 superuser: true
 user_groups:
 - Researchers
