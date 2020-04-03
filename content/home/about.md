@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ed.ac.uk/biology/evolutionary-biology"
   location = "Edinburgh"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2023-07-01"
   description = """
   PhD student in the [Pedersen Group](http://pedersen.bio.ed.ac.uk/) studying the ecology of infectious diseases in wild mice. My current research is focused on how heterogeneity in resource availability affects space use, contact networks, and parasite transmission in wild mice, using a combination of field experiments and statistical and epidemiological methods.
   
