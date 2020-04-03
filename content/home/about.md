@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   location = "Athens, GA, USA"
   date_start = "2017-09-01"
   date_end = "2018-08-01"
-  description = """Research Intern with [Professor Vanessa Ezenwa](http://ezenwalab.uga.edu/) and [Dr. Léa Briard] (http://leabriard.mystrikingly.com/)researching  the effects of anthelmintic treatment on non-target parasites in wild rodents and assisting on a project on the causal relationship between personality and parasitism in wild rodents. """
+  description = """Research Intern with [Professor Vanessa Ezenwa](http://ezenwalab.uga.edu/) and [Dr. Léa Briard](http://leabriard.mystrikingly.com/) researching  the effects of anthelmintic treatment on non-target parasites in wild rodents and assisting on a project on the causal relationship between personality and parasitism in wild rodents. """
 
 [[experience]]
   title = "Research Assistant"
