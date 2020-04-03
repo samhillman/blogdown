@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academic</title>
+    <title>Authors on Sam Hillman | Disease Ecology</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Academic</description>
+    <description>Recent content in Authors on Sam Hillman | Disease Ecology</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
@@ -17,9 +17,9 @@
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <description>&lt;p&gt;Hi - I&#39;m Sam! I&#39;m a PhD student in the &lt;a href=&#34;http://pedersen.bio.ed.ac.uk/&#34;&gt;Pedersen Group&lt;/a&gt; at Edinburgh University working on the ecology of infection and immunity in a wild mouse system. My aim is to bridge the divide between laboratory models and real-world systems by understanding the causes and consequences of ecological heterogeneity on parasite infection, host immunity, and disease control.&lt;/p&gt;
+&lt;p&gt;That may sound like a mouthful but I&#39;m an ecologist at heart, passionate about all things natural. As well as ecology I&#39;m interested in teaching and using statistical modeling in R as well as trying to work out how we can apply modern open-science practices to ecological research.&lt;/p&gt;
+&lt;p&gt;Find out more about me and my work &lt;a href=&#34;#about&#34;&gt;below&lt;/a&gt; or get in &lt;a href=&#34;#contact&#34;&gt;touch&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
