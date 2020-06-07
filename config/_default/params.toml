@@ -18,7 +18,7 @@ description = "Sam Hillman - Ecology, Parasites, and R"
 sharing_image = "samhillman.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "samghillman"
+twitter = "SamHillman"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -64,9 +64,9 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "envelope", icon_pack = "fas", name = "sam@samhillman.com", link = "mailto: sam@samhillman.com"},
-  {icon = "twitter", icon_pack = "fab", name = "@SamGHillman", link = "https://twitter.com/samghillman"},
-  {icon = "google-scholar", icon_pack = "ai", name = "Find me on Twitter", link = "https://twitter.com/samghillman"},
-  {icon = "github", icon_pack = "fab", name = "Check me out on Github", link = "https://github.com/samghillman"},
+  {icon = "twitter", icon_pack = "fab", name = "@SamHillman", link = "https://twitter.com/SamHillman"},
+  {icon = "google-scholar", icon_pack = "ai", name = "Find me on Twitter", link = "https://twitter.com/SamHillman"},
+  {icon = "github", icon_pack = "fab", name = "Check me out on Github", link = "https://github.com/SamHillman"},
   {icon = "linkedin", icon_pack = "fab", name = "View my LinkedIn profile", link = "https://www.linkedin.com/in/samghillman/"},
   {icon = "stack-overflow", icon_pack = "fab", name = "See my StackOverflow account", link = "https://stackoverflow.com/3739146/sam-hillman"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},

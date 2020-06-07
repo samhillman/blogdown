@@ -9,7 +9,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/SamGHillman
+  url: https://twitter.com/SamHillman
 slides: 
 summary: 
 tags:
