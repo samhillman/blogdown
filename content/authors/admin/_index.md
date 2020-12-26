@@ -1,8 +1,8 @@
 ---
 authors:
 - admin
-bio: I'm a PhD student with research interests including the ecology of infectious disease, parasite co-infection, and statistics
-education:
+bio: I'm a PhD student with research interests including the ecology of infectious disease, social networks, and statistics
+education:   
   courses:
   - course: PhD Ecology and Evolutionary Biology
     institution: Edinburgh University
@@ -13,7 +13,7 @@ education:
 email: "sam@samhillman.com"
 interests:
 - Disease Ecology
-- Co-infection
+- Social Network Analysis
 - R and Statistics
 name: Sam Hillman
 organizations:
@@ -39,8 +39,10 @@ user_groups:
 - Visitors
 ---
 
-Hi - I'm Sam! I'm a PhD student in the [Pedersen Group](http://pedersen.bio.ed.ac.uk/) at Edinburgh University working on the ecology of infection and immunity in a wild mouse system. My aim is to bridge the divide between laboratory models and real-world systems by understanding the causes and consequences of ecological heterogeneity on parasite infection, host immunity, and disease control.
+Hi - I'm Sam! I'm a PhD student in the [Pedersen Group](http://pedersen.bio.ed.ac.uk/) at Edinburgh University. I work on trying to understand how ecological factors affect the spread of infectious disease. 
 
-That may sound like a mouthful but I'm an ecologist at heart, passionate about all things natural. As well as ecology I'm interested in teaching and using statistical modeling in R as well as trying to work out how we can apply modern open-science practices to ecological research.
+I'm currently focused on how changes in resource distribution affects how animals interact, and how this changes their behaviour and diseases transmission. I use a mixture of long-term field experiments, lab studies, biologging and social network analysis, and statistical and mathematical modelling.
+
+That may sound like a mouthful but I'm an ecologist at heart, passionate about all things natural. As well as ecology I'm interested in teaching and using statistical modelling in R as well as trying to work out how we can apply modern open-science practices to ecological research.
 
 Find out more about me and my work [below](#about) or get in [touch](#contact)!
