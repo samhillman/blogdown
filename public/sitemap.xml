@@ -3,42 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.samhillman.com/project/current-work/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.samhillman.com/tags/disease-ecology/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.samhillman.com/tags/parasites/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.samhillman.com/project/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.samhillman.com/tags/research/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.samhillman.com/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.samhillman.com/tags/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.samhillman.com/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.samhillman.com/post/</loc>
   </url>
   
   <url>
@@ -51,6 +20,14 @@
   
   <url>
     <loc>https://www.samhillman.com/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.samhillman.com/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.samhillman.com/tags/</loc>
   </url>
   
 </urlset>

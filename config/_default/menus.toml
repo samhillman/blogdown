@@ -25,24 +25,24 @@
 
 [[main]]
   name = "Current Work"
-  url = "project/current-work/"
+  url = "post/current-work/"
   weight = 60
   
 [[main]]
-  name = "Blog"
-  identifier = "posts"
+  name = "Blog Posts"
+  identifier = "blog"
   weight = 70
   
     [[main]]
-    name = "Recent Posts"
-    parent = "posts"
-    url = "posts"
+    name = "All Posts"
+    parent = "blog"
+    url = "post/" 
     weight = 70
     
     [[main]]
-    name = "All Posts"
-    parent = "posts"
-    url = "posts/"
+    name = "By Category"
+    parent = "blog"
+    url = "category/"
     weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
