@@ -42,7 +42,7 @@
     [[main]]
     name = "By Category"
     parent = "blog"
-    url = "category/"
+    url = "categories/"
     weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
