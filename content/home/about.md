@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   
   and lots more!  
   
-  See [my current field work](/project/current-work/) for more information about my current experiments or [my CV](/files/sam-hillman-cv.pdf) for a more complete picture of my background!
+  See [my current field work](/post/current-work/) for more information about my current experiments or [my CV](/files/sam-hillman-cv.pdf) for a more complete picture of my background!
   """
 [[experience]]
   title = "Research Assistant"
