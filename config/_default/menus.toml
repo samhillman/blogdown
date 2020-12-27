@@ -54,13 +54,13 @@
     [[main]]
     name = "PDF CV"
     parent = "CV"
-    url = "files/sam-hillman-cv.pdf"
+    url = "www.samhillmancv.com/sam-hillman-cv.pdf"
     weight = 80
     
     [[main]]
     name = "HTML CV"
     parent = "CV"
-    url = "files/sam-hillman-cv.pdf"
+    url = "www.samhillmancv.com"
     weight = 80
     
     
