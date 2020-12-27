@@ -14,23 +14,6 @@
   weight = 10
 
 #[[main]]
-  #name = "Posts"
-  #identifier = "posts"
- # weight = 20
-  
-   # [[main]]
-#    name = "Recent Posts"
- #   parent = "posts"
-  #  url = "#posts"
-   # weight = 20
-    
-  #  [[main]]
-  #  name = "All Posts"
-  #  parent = "posts"
-  #  url = "posts/"
-  #  weight = 20
-
-#[[main]]
  # name = "Projects"
   #url = "#projects"  
   #weight = 30
@@ -42,17 +25,34 @@
 
 [[main]]
   name = "Current Work"
-  url = "project/current-work/"
+  url = "post/current-work/"
   weight = 60
+  
+[[main]]
+  name = "Blog Posts"
+  identifier = "blog"
+  weight = 70
+  
+    [[main]]
+    name = "All Posts"
+    parent = "blog"
+    url = "post/" 
+    weight = 70
+    
+    [[main]]
+    name = "By Category"
+    parent = "blog"
+    url = "category/"
+    weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
     name = "CV"
     url = "files/sam-hillman-cv.pdf"
-    weight = 70 
+    weight = 80 
     
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 80
+  weight = 90
