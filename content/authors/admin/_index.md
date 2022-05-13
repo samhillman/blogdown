@@ -29,7 +29,7 @@ social:
   link: https://twitter.com/SamHillman
 - icon: google-scholar
   icon_pack: ai
-  link: https://twitter.com/SamHillman
+  link: https://scholar.google.co.uk/citations?user=kKydRfAAAAAJ&hl=en"
 - icon: github
   icon_pack: fab
   link: https://github.com/SamHillman
