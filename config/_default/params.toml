@@ -65,7 +65,7 @@ appointment_url = ""
 contact_links = [
   {icon = "envelope", icon_pack = "fas", name = "sam@samhillman.com", link = "mailto: sam@samhillman.com"},
   {icon = "twitter", icon_pack = "fab", name = "@SamHillman", link = "https://twitter.com/SamHillman"},
-  {icon = "google-scholar", icon_pack = "ai", name = "Find me on Twitter", link = "https://twitter.com/SamHillman"},
+  {icon = "google-scholar", icon_pack = "ai", name = "Find me on Google Scholar", link = "https://scholar.google.co.uk/citations?user=kKydRfAAAAAJ&hl=en"},
   {icon = "github", icon_pack = "fab", name = "Check me out on Github", link = "https://github.com/SamHillman"},
   {icon = "linkedin", icon_pack = "fab", name = "View my LinkedIn profile", link = "https://www.linkedin.com/in/samghillman/"},
   {icon = "stack-overflow", icon_pack = "fab", name = "See my StackOverflow account", link = "https://stackoverflow.com/users/3739146/sam-hillman"},
