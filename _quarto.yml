@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Sam Hillman"
+  site-url: https://www.samhillman.com
+  description: "Sam Hillman's personal webpage"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: About / Projects
+        href: about.qmd
+      - text: Contact Me
+        href: contact.qmd
+      - text: My CV
+        href: https://www.samhillmancv.com/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/samghillman/
+      - icon: github
+        href: https://github.com/SamHillman
+      - icon: twitter
+        href: https://twitter.com/SamHillman
+
+format:
+  html:
+    theme: theme.scss
+
+editor: 
+  mode: source
+

@@ -1,0 +1,36 @@
+/* css styles */
+
+
+/* Hide about-links on mobile devices */
+@media (max-width: 991px) {
+  .about-links {
+    font-size: 0;
+    visibility: hidden;
+  }
+
+  .about-links a {
+    font-size: 0 !important;
+  }
+
+  .about-links i {
+    display: none;
+  }
+  
+  
+#title-block-header { display: none; }
+
+/* Image */
+.quarto-about-trestles .about-entity img{
+ margin-top:1em;
+ height: 10em !important;
+  width: 10em !important;
+}
+  
+ /* Content Division */
+#quarto-document-content{
+ margin-left:0.5em;
+ margin-right:0.5em;
+}
+
+
+}

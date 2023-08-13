@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "blog",
+    "section": "",
+    "text": "coming soon"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hi - I’m Sam!\nI’m a scientific researcher currently working as a data science consultant in the pharmaceutical industry through Hillman Analytics.\nMy background is in epidemiology, statistics, and complex data science.\nI have extensive experience working in data analysis, data science, and data management, and have previous experience working in clinical trials. Find out more about me and my work or get in touch!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to drop me a message at any time - I’m always on the lookout for new opportunities!\n\nEmail me at sghillman@gmail.com.\nDrop me a message on LinkedIn\nFollow me or DM me on twitter"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "[ under construction]"
+  }
+]
