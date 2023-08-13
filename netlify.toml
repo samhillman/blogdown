@@ -1,5 +1,0 @@
-[context.production.environment]
-HUGO_VERSION = "0.60.1"
-
-[[plugins]]
-package = "netlify-plugin-checklinks"
